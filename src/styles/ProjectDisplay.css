@@ -36,6 +36,7 @@
 
 @media (max-width: 1000px) {
   .project {
+    height: 100%;
     padding-top: 10%;
     padding-bottom: 20%;
   }

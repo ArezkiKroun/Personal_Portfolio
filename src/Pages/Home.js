@@ -57,9 +57,6 @@ function Home() {
           <a href="#">
             <EmailIcon></EmailIcon>
           </a>
-          <a href="https://gitlab-dpt-info-sciences.univ-rouen.fr/m1info/gest-notes">
-            <img src={gitlab} />
-          </a>
         </Box>
 
         <div className="cv">
