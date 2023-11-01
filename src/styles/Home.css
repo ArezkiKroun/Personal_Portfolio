@@ -2,7 +2,6 @@
   width: 100%;
   align-items: center;
   font-family: "Arial", sans-serif;
- 
 }
 
 .about {
@@ -27,7 +26,6 @@
 .about .prompt {
   width: 40%;
   font-size: 30px;
-  
 }
 /*
 .about .cv{
@@ -41,7 +39,7 @@
 */
 .cv svg {
   font-size: 60px;
-  color:black;
+  color: black;
   margin: 5px;
   color: rgb(202, 2, 2);
 }
@@ -56,30 +54,53 @@
   font-size: 35px;
   width: 100%;
   display: flex;
+  background-color: #f0f0f0;
   justify-content: center;
   flex-direction: column;
   align-items: center;
   height: 100%;
-  margin-top: 10%;
+  padding-bottom: 50px;
+}
+
+.skills {
+  font-size: 35px;
+  width: 100%;
+  display: flex;
+  background-color: #f0f0f0;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
 }
 
 .skills h1 {
   color: #3e497a;
 }
 
-.skills .list {
-  list-style: none;
-  width: 60%;
-  display : inline;
+.lists {
+  display: flex;
+  justify-content: center;
 }
 
-.home img{
-  width: 8%;
-  height: 8%;
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.list li {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.home img {
+  width: 100px;
+  height: 10Opx;
   margin: 15px;
   justify-content: space-between;
 }
-.home .about img{
+.home .about img {
   width: 10%;
   height: 19%;
   margin: 15px;
@@ -100,9 +121,7 @@
     width: 80%;
   }
 
-
   .skills .list ol li h2 {
-    color:#ff7b00;
+    color: #ff7b00;
   }
 }
-

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import "../styles/Navbar.css";
 import ReorderIcon from "@material-ui/icons/Reorder";
+import { Box } from "@mui/material";
 
 function Navbar() {
   const [expandNavbar, setExpandNavbar] = useState(false);
@@ -11,10 +12,9 @@ function Navbar() {
   useEffect(() => {
     setExpandNavbar(false);
   }, [location]);
-//quand on clique sur id de la nav bar on ouvre si non on ferme
-                                                                   
+
   return (
-    <div className="navbar" id={expandNavbar ? "open" : "close"}>   
+    <Box className="navbar" id={expandNavbar ? "open" : "close"}>
       <div className="toggleButton">
         <button
           onClick={() => {
@@ -25,11 +25,11 @@ function Navbar() {
         </button>
       </div>
       <div className="links">
-        <Link to="/"> Home </Link>
+        <Link to="/Personal_Portfolio"> Home </Link>
         <Link to="/projects"> Projects </Link>
         <Link to="/experience"> Experience </Link>
       </div>
-    </div>
+    </Box>
   );
 }
 
