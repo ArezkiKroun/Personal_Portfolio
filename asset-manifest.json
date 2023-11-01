@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Personal_Portfolio/static/css/main.c8a47a24.css",
-    "main.js": "/Personal_Portfolio/static/js/main.59d40f43.js",
+    "main.css": "/Personal_Portfolio/static/css/main.79a39744.css",
+    "main.js": "/Personal_Portfolio/static/js/main.98d6a396.js",
     "static/js/787.fb771931.chunk.js": "/Personal_Portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/cv_i.pdf": "/Personal_Portfolio/static/media/cv_i.c916a1d35b20056fce34.pdf",
     "static/media/hotel.png": "/Personal_Portfolio/static/media/hotel.b8ed06673cd13d4ab704.png",
     "static/media/php.png": "/Personal_Portfolio/static/media/php.613a3f67834881bfb0a5.png",
-    "static/media/cv_i.pdf": "/Personal_Portfolio/static/media/cv_i.4ab59324ebc46339e756.pdf",
     "static/media/linux.png": "/Personal_Portfolio/static/media/linux.6d208c95cc37fd3cdc44.png",
     "static/media/python.png": "/Personal_Portfolio/static/media/python.82efb64f8698a267f8bf.png",
     "static/media/gimages.png": "/Personal_Portfolio/static/media/gimages.dfae3ba12d8dc6bd7282.png",
@@ -33,12 +33,12 @@
     "static/media/ts.png": "/Personal_Portfolio/static/media/ts.0e441eed78ba11c335df.png",
     "static/media/java.png": "/Personal_Portfolio/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/Personal_Portfolio/index.html",
-    "main.c8a47a24.css.map": "/Personal_Portfolio/static/css/main.c8a47a24.css.map",
-    "main.59d40f43.js.map": "/Personal_Portfolio/static/js/main.59d40f43.js.map",
+    "main.79a39744.css.map": "/Personal_Portfolio/static/css/main.79a39744.css.map",
+    "main.98d6a396.js.map": "/Personal_Portfolio/static/js/main.98d6a396.js.map",
     "787.fb771931.chunk.js.map": "/Personal_Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8a47a24.css",
-    "static/js/main.59d40f43.js"
+    "static/css/main.79a39744.css",
+    "static/js/main.98d6a396.js"
   ]
 }
