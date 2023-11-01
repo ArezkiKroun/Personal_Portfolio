@@ -51,7 +51,7 @@ function Home() {
           <a href="https://github.com/ArezkiKroun">
             <GitHubIcon></GitHubIcon>
           </a>
-          <a href="#">
+          <a href="https://www.linkedin.com/in/arezki-kroun-0666b4237/">
             <LinkedInIcon></LinkedInIcon>
           </a>
           <a href="#">
@@ -63,7 +63,7 @@ function Home() {
         </Box>
 
         <div className="cv">
-          <p>CV</p>
+          <p>Download CV</p>
           <a href={cv_i} download>
             {" "}
             <PictureAsPdf></PictureAsPdf>{" "}

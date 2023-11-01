@@ -20,7 +20,7 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             Développeur Full stack
           </h3>
-          <p>Docaposte Agility, Rouen</p>
+          <p>Docaposte Agility, Rouen, France</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -32,7 +32,7 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             Stage ingénieur et développement
           </h3>
-          <p>Docaposte Agility, Rouen</p>
+          <p>Docaposte Agility, Rouen, France</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement

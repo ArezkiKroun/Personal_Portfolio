@@ -33,8 +33,7 @@
 
 .toggleButton {
   width: 100%;
-  background-color: #ff8800;
-
+  background-color: #000000;
   height: 80px;
   display: flex;
   align-items: center;
